@@ -1,4 +1,5 @@
-# Simulador de Corridas Mario Kart
+# Simulador de Corridas do Mario Kart com Node.js
+<img width="1080" height="380" alt="mario" src="https://github.com/user-attachments/assets/58db688a-2f65-4272-ac60-59105291be6c" />
 
 
 
