@@ -16,7 +16,7 @@ shopee-cart/
 │ ├─ cart.js
 │ └─ item.js
 
-## 🛠 Ferramentas utilizadas
+
 ````
 ## ▶️ Como executar
 1. Clone o repositório.
