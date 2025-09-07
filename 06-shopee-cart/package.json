@@ -1,0 +1,14 @@
+{
+  "name": "06-shopee-cart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Julio Siqueira",
+  "license": "ISC",
+  "description": "Projeto carrinho de compras - Shopee",
+  "type": "module"
+
+}
