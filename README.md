@@ -1,5 +1,8 @@
 # 🚀 Bootcamp Desenvolvedor Mobile Full Stack
 
+<img width="338" height="159" alt="image" src="https://github.com/user-attachments/assets/4dc8bec3-859d-4284-ba00-4df67c8b0f96" />
+
+
 Bem-vindo(a) ao repositório do **Bootcamp Desenvolvedor Mobile Full Stack**, uma experiência completa para quem deseja dominar o desenvolvimento mobile de ponta a ponta, com **Node.js, React Native, JavaScript e TypeScript**.
 
 ---
